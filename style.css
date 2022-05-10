@@ -1,0 +1,358 @@
+.fucked {
+    width: 100%;
+    height: 50px;
+    left: 0px;
+    top: 0px;
+    background: #007765;
+}
+.title {
+    position: absolute;
+    bottom: 92%;
+    left: 300px;
+    height: 35px;
+    width: 140px;
+}
+.a {
+    position: absolute;
+    top: 25px;
+    left: 1007px;
+    font-size: 20px;
+}
+a:link, a:visited {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.b {
+    position: absolute;
+    top: 25px;
+    left: 1108px;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+.c {
+    position: absolute;
+    top: 25px;
+    left: 1118px;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+.d {
+    position: absolute;
+    top: 25px;
+    left: 1240px;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+.f {
+    position: absolute;
+    top: 25px;
+    left: 1250px;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+ul { 
+    list-style: none; }
+.img_block__one {
+    position: relative;
+    display: inline-block;
+}
+
+.img_block__one img {
+    height: 100%;
+    width: 100%;
+}
+.img_block__one h1 {   
+    color: #fff;
+    border-radius: 2px;
+    position: absolute;
+    right: 25%;
+    bottom: 25%;
+    left: 35%;
+    font-size: 72px;
+    font-family: Arial;  
+}
+.problem {
+    text-align: center;
+    color: #007765;
+    font-size: 64px;
+    font-family: Arial;
+}
+.problem_text {
+    padding-left: 225px;
+    font-size: 32px;
+    font-family: Arial;
+}
+.img_block__two {
+    position: relative;
+    display: inline-block;
+}
+
+.img_block__two img {
+    height: 100%;
+    width: 100%;
+}
+.img_block__two span {
+    color: #fff;
+    border-radius: 2px;
+    position: absolute;
+    right: 28%;
+    bottom: 25%;
+    left: 32%;
+    font-size: 35px;
+    text-align: center;
+    font-family: 'Roboto';
+    font-style: italic;
+}
+.Introducing {
+    text-align: center;
+    color: #007765;
+    font-size: 64px;
+    font-family: Arial;
+}
+.first_part {
+    padding-left: 350px;
+    font-size: 32px;
+    font-family: Arial;
+}
+.second_part {
+    padding-left: 225px;
+    font-size: 32px;
+    font-family: Arial;
+}
+.bamboo {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 225px;
+    top: 1558px;
+}
+.personalities {
+    text-align: center;
+    color: #007765;
+    font-size: 64px;
+    font-family: Arial;
+}
+.first_personality {
+    position: absolute;
+    width: 168px;
+    height: 168px;
+    left: 325px;
+    top: 2050px;
+}
+.second_personality {
+    position: absolute;
+    width: 168px;
+    height: 168px;
+    left: 705px;
+    top: 2050px;
+}
+.third_personality {
+    position: absolute;
+    width: 168px;
+    height: 168px;
+    left: 1085px;
+    top: 2050px;
+}
+.fourth_personality {
+    position: absolute;
+    width: 168px;
+    height: 168px;
+    left: 325px;
+    top: 2430px;
+}
+.fifth_personality {
+    position: absolute;
+    width: 168px;
+    height: 168px;
+    left: 705px;
+    top: 2430px;
+
+}
+.sixth_personality {
+    position: absolute;
+    width: 168px;
+    height: 168px;
+    left: 1085px;
+    top: 2430px;
+}
+.signature_one{
+    position: absolute;
+    left: 310px;
+    top: 2235px;
+    width: 199px;
+    height: 29px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    color: #007765;
+}
+.signature_two{
+    position: absolute;
+    left: 350px;
+    top: 2263px;
+    width: 118px;
+    height: 22px;
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #000000;
+    white-space: nowrap;
+}
+.signature_three{
+    position: absolute;
+    left: 705px;
+    top: 2235px;
+    width: 199px;
+    height: 29px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    color: #007765;
+}
+.signature_four{
+    position: absolute;
+    left: 712px;
+    top: 2263px;
+    width: 118px;
+    height: 22px;
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #000000;
+    white-space: nowrap;
+}
+.signature_five{
+    position: absolute;
+    left: 1086px;
+    top: 2235px;
+    width: 199px;
+    height: 29px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    color: #007765;
+}
+.signature_six{
+    position: absolute;
+    left: 1087px;
+    top: 2263px;
+    width: 118px;
+    height: 22px;
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #000000;
+    white-space: nowrap;
+}
+.signature_seven{
+    position: absolute;
+    left: 350px;
+    top: 2615px;
+    width: 199px;
+    height: 29px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    color: #007765;
+}
+.signature_eight{
+    position: absolute;
+    left: 325px;
+    top: 2643px;
+    width: 118px;
+    height: 22px;
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #000000;
+    white-space: nowrap;
+}
+.signature_nine{
+    position: absolute;
+    left: 725px;
+    top: 2615px;
+    width: 199px;
+    height: 29px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    color: #007765;
+}
+.signature_ten{
+    position: absolute;
+    left: 705px;
+    top: 2643px;
+    width: 118px;
+    height: 22px;
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #000000;
+    white-space: nowrap;
+}
+.signature_eleven{
+    position: absolute;
+    left: 1086px;
+    top: 2615px;
+    width: 199px;
+    height: 29px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    color: #007765;
+}
+.signature_twelve{
+    position: absolute;
+    left: 1100px;
+    top: 2643px;
+    width: 118px;
+    height: 22px;
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #000000;
+    white-space: nowrap;
+}
+.cellar {
+    position: absolute;
+    width: 100%;
+    height: 176px;
+    left: 0px;
+    top: 2775px;
+    background: #333333;
+}
+.cellar_text {
+    color: #fff;
+    position: absolute;
+    right: 28%;
+    bottom: 25%;
+    left: 32%;
+    font-size: 18px;
+    text-align: center;
+    font-family: 'Roboto';
+    font-style: normal;
+}
